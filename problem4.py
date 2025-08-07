@@ -1,3 +1,4 @@
+# 3363. Find the Maximum Number of Fruits Collected
 class Solution:
     def maxCollectedFruits(self, fruits):
         n = len(fruits)
